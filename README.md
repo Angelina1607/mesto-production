@@ -1,3 +1,5 @@
+https://github.com/Angelina1607/mesto-production  
+
 Сайт можно посмотреть здесь: https://angelina1607.github.io/mesto-production/  
 Стартовый набор для выполнения проектной работы Место
 
