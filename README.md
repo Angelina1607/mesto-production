@@ -1,4 +1,4 @@
-Сайт можно посмотреть здесь: https://angelina1607.github.io/mesto-production/
+Сайт можно посмотреть здесь: https://angelina1607.github.io/mesto-production/  
 Стартовый набор для выполнения проектной работы Место
 
 Для запуска приложения необходимо использовать live-server.
