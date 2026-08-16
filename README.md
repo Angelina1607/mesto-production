@@ -1,4 +1,4 @@
-Сайт можно посмотреть здесь: https://angelina1607.github.io/mesto-production/{:target="_blank"}  
+Сайт можно посмотреть здесь: https://angelina1607.github.io/mesto-production/ {:target="_blank"}  
   
 Стартовый набор для выполнения проектной работы Место
 
@@ -6,7 +6,7 @@
 Live-server является расширением VSCode  
 
 Для запуска локального сервера: 
-git clone https://github.com/Angelina1607/mesto-ad.git{:target="_blank"}  
+git clone https://github.com/Angelina1607/mesto-ad.git {:target="_blank"}  
 npm install  
 Для работы с проектом доступны следующие скрипты из файла package.json:  
 
